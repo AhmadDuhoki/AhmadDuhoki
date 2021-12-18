@@ -95,7 +95,7 @@ I am a front-end web and mobile developer, focused on developing creative front-
   <br/>
 </details>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♂️ Let's Connect
 <p align="center">
 <!-- 	<a href="#" target="_blank"><img src="#" alt="Portfolio"/></a> -->
 	<a href="https://github.com/AhmadDuhoki" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
