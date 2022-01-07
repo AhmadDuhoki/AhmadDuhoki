@@ -8,7 +8,7 @@ Hi, I'm Ahmad A. Duhoki!
 </p>
 <hr/>
 <samp>
-I am a front-end web and mobile developer, focused on developing creative front-end web and mobile apps. I'm Passionate about learning new things and building excellent software that improves the lives of people with the help of modern technology.
+I am a front-end web and developer, focused on developing creative front-end web apps. I'm Passionate about learning new things and building excellent software that improves the lives of people with the help of modern technology.
 </samp>
 
 ## 🔥 Streak stats
